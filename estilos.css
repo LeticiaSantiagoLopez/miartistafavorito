@@ -1,0 +1,35 @@
+body{
+    background-color:#e4d1ed;
+    color: #120907;
+    font-family:  "Rubik", sans-serif;
+}
+h1{color: #120907;
+    text-align: center;
+}
+h2{color: #120907;}
+
+a{
+    text-decoration:none;
+}
+ ul{
+    list-style: none;
+    
+ }
+    
+.imgbanner{
+    width: 1300px;
+}
+ 
+ img {
+    border: 5px solid #dc8e2e00;
+    width: 300px;
+    display:block;
+    margin:auto;
+}
+
+
+  
+ 
+  
+
+  
