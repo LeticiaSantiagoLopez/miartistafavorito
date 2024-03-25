@@ -13,7 +13,7 @@ Este proyecto, es mi primera página web en ella presento a mi artista favorito 
 + **Google Fonts:** Para fuentes personalizadas.
 
 ### Vista previa del proyecto
-![Demo](/img/miartistafavorito.png)
+![Demo](/img/Miartistafavorito_screen.png)
 
 ### Licencia
 Distribuido bajo la Licencia MIT. Consulta `LICENSE` para obtener más información.
