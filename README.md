@@ -1,15 +1,15 @@
 # Mi artista favorito.
-Este proyecto, es mi primera página creado con HTML Y CSS. 
+Este proyecto, es mi primera página web en ella presento a mi artista favorito utilizando HTML y CSS para crear una experiencia visualmente atractiva y fácil de navegar.
 
 ## Características
 + **Diseño Responsive**: Adaptable a diferentes tamaños de pantalla para una experiencia de usuario óptima en dispositivos móviles y de escritorio.
-+ **Interfaz de Usuario Intuitiva:** Inspirada en [Pinterest](https://www.pinterest.com.mx/) con una navegación fácil y accesible.
-+ **Interacciones Dinámicas:** Efectos visuales para elemento interactivos como botones y enlaces.
-+ **Iconografía y Estilos Modernos:** Uso de la biblioteca de icono de Material Desing y estilos CSS modernos para apariencia cool.
++ **Interfaz de Usuario Intuitiva:** Fácil de entender y usar sin necesidad de instrucciones complicadas. Su diseño lógico y visual claro permite a los usuarios interactuar de manera eficiente y sin confusiones.
++ **Interacciones Dinámicas:** Efectos visuales para elemento interactivos como imágenes y enlaces.
+
 
 ### Tecnologías Utilizadas
 + **HTML5:** Para la estructura básica del sitio.
-+ **CSS3:** Para el diseño y estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_.
++ **CSS3:** Para el diseño y estilo, incluyendo _flexbox_ para un diseño responsivo.
 + **Google Fonts:** Para fuentes personalizadas.
 
 ### Vista previa del proyecto
