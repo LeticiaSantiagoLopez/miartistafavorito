@@ -13,10 +13,10 @@ Este proyecto, es mi primera página web en ella presento a mi artista favorito 
 + **Google Fonts:** Para fuentes personalizadas.
 
 ### Vista previa del proyecto
-![Demo](/img/Pinteres_Screen.png)
+![Demo](/img/miartistafavorito.png)
 
 ### Licencia
 Distribuido bajo la Licencia MIT. Consulta `LICENSE` para obtener más información.
 
 ### Contacto
-Leticia Santiago: [ Mi LinkedIn](https://www.linkedin.com/in/leticia-santiago-l%C3%B3pez-2216342b3/)
+Leticia Santiago: [ Mi LinkedIn](www.linkedin.com/in/leticiasantiagolópez)
